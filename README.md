@@ -10,7 +10,7 @@ I have a handful of production-grade experiences with **Golang**, **Android**, *
 Outside of my 9-5 job, I usually get busy with reading and writing. Lately, I find myself interested in  **Zig**🦎  to begin writing a basic microservice framework for my own needs.
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=im-ng&layout=compact)
+![lang](./embed.svg)
 
 **Recent Projects**
 
