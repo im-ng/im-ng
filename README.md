@@ -17,3 +17,5 @@ Outside of my 9-5 job, I usually get busy with reading and writing. Lately, I fi
 - [asciigraph](https://github.com/im-ng/asciigraph) Zig module to flush console ascii line graphs ╭┈╯
 - [cronz](https://github.com/im-ng/cronz) Zero allocation task scheduler written in zig
 - [zero](https://github.com/im-ng/zero)  Simple opinionated microservice web framework aims for zero allocation and zero memory leak.
+- [zf](https://github.com/im-ng/zf) System information CLI tool written in Zig (AI)
+- [kakka](https://github.com/im-ng/kakka) A minimalist task manager with Kanban and Todo list views. (AI)
