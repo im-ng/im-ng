@@ -1,14 +1,12 @@
 ## Hi, I'm known as Ng 👋
 
-
-I am a software engineer by profession and a poet by heart, although I remain unknown. I've been in the software industry for a while and have primarily worked on internal tools for various enterprises. 
+I am a software engineer by profession and a poet by heart, although I remain unknown. I've been in the software industry for a while and have primarily worked on internal tools for various enterprises.
 
 While my technical skills help solve complex problems, my poetry provides an outlet for my emotions and thoughts, weaving together the threads of my experiences.
 
 I have a handful of production experiences with **Golang**, **Android**, **Swift**, **JavaScript** applications, **DevOps** releases, and **Kubernetes**. Through this blend of technical proficiency and artistic expression, I strive to bring a unique perspective to every project I undertake. (unique issues as well)
 
-Outside of my 9-5 job, I usually get busy with reading and writing. Lately, I find myself interested in  **Zig**🦎  to begin writing a basic microservice framework for my own needs.
-
+Outside of my 9-5 job, I usually get busy with reading and writing. Lately, I find myself interested in **Zig**🦎 to begin writing a basic microservice framework for my own needs.
 
 ![lang](./embed.svg)
 
@@ -16,6 +14,7 @@ Outside of my 9-5 job, I usually get busy with reading and writing. Lately, I fi
 
 - [asciigraph](https://github.com/im-ng/asciigraph) Zig module to flush console ascii line graphs ╭┈╯
 - [cronz](https://github.com/im-ng/cronz) Zero allocation task scheduler written in zig
-- [zero](https://github.com/im-ng/zero)  Simple opinionated microservice web framework aims for zero allocation and zero memory leak.
-- [zf](https://github.com/im-ng/zf) System information CLI tool written in Zig (AI)
+- [zero](https://github.com/im-ng/zero) Simple opinionated microservice web framework aims for zero allocation and zero memory leak. 🏗️
+- [Eva](https://github.com/im-ng/eva) A high-performance, single-binary AI agent runtime written in Zig (AI Assisted) 👾
+- [zf](https://github.com/im-ng/zf) System information CLI tool written in Zig (AI) ⚙️
 - [kakka](https://github.com/im-ng/kakka) A minimalist task manager with Kanban and Todo list views. (AI)
